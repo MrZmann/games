@@ -95,12 +95,12 @@ In this game, you can roll a die (random.randint or random.choice). If you roll 
 Example Gameplay:
 
 Round 1:
-Player one rolls 2, 4 --> 6 points
-Player two rolls 2, 3, end turn --> 5 points
+- Player one rolls 2, 4 --> 6 points
+- Player two rolls 2, 3, end turn --> 5 points
 
 Round 2:
-Player one rolls 3, 2, 5, 1 --> 6 + no points --> 6 points
-Player two rolls 6, 2, end turn --> 5 + 8 --> 13 points
+- Player one rolls 3, 2, 5, 1 --> 6 + no points --> 6 points
+- Player two rolls 6, 2, end turn --> 5 + 8 --> 13 points
 
 Requirements:
 
