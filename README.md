@@ -3,21 +3,21 @@ For this assignment, you will get to implement a game of your choice and then pr
 You can either choose two projects from the first group or one project from the second group. (You are welcome to do more though!)
 You could also choose one project from the third group. Projects in this group are very challenging so if you choose one of these you can work with up to one other partner if you would like to.
 
-First Group:
+### First Group:
 
 - Quiz Game
 - Mad Libs
 - Guess my Number
 - Smart Rock Paper Scissors
 
-Second Group:
+### Second Group:
 
 - Quiz Game (with at least 3 extra credit options)
 - Pass the Pig
 - Hangman
 - Wordle
 
-Third Group:
+### Third Group:
 
 - Pass the Pig (with at least 3 extra credit options)
 - Connect 4
@@ -25,7 +25,7 @@ Third Group:
 
 Finally, if there is a different game / project / extra credit task you would be interested in, just ask me!
 
-Deadlines:
+## Deadlines:
 
 - Nov 9, 11:59 PM - Choose your game(s). You must submit some code (push to your repo). This will count as your attendance for Thursday.
 - Nov 13, 11:59 PM - if you chose two games from the first group, one must be finished (pushed to the repo) by Monday night. Everyone else should be about halfway done. Create a file called status.txt and write what you have done so far and any questions that you have. Push this file before midnight.
